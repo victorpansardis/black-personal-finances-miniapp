@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1715021106273" clover="3.2.0">
+  <project timestamp="1715021106273" name="All files">
+    <metrics statements="38" coveredstatements="38" conditionals="23" coveredconditionals="23" methods="18" coveredmethods="18" elements="79" coveredelements="79" complexity="0" loc="38" ncloc="38" packages="1" files="4" classes="4"/>
+    <file name="App.js" path="C:\Users\victo\OneDrive\Documentos\Estudo\Onebitcode\Testes automatizados no Javascript\black-personal-finances-miniapp\src\App.js">
+      <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <line num="1" count="2" type="stmt"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="6" count="4" type="stmt"/>
+      <line num="14" count="3" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="30" count="2" type="stmt"/>
+    </file>
+    <file name="Transaction.js" path="C:\Users\victo\OneDrive\Documentos\Estudo\Onebitcode\Testes automatizados no Javascript\black-personal-finances-miniapp\src\Transaction.js">
+      <metrics statements="9" coveredstatements="9" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
+      <line num="1" count="3" type="stmt"/>
+      <line num="5" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="6" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="5" type="stmt"/>
+      <line num="10" count="5" type="stmt"/>
+      <line num="11" count="5" type="stmt"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="19" count="3" type="stmt"/>
+    </file>
+    <file name="Wallet.js" path="C:\Users\victo\OneDrive\Documentos\Estudo\Onebitcode\Testes automatizados no Javascript\black-personal-finances-miniapp\src\Wallet.js">
+      <metrics statements="13" coveredstatements="13" conditionals="11" coveredconditionals="11" methods="9" coveredmethods="9"/>
+      <line num="3" count="16" type="stmt"/>
+      <line num="4" count="16" type="stmt"/>
+      <line num="5" count="16" type="stmt"/>
+      <line num="9" count="4" type="stmt"/>
+      <line num="13" count="21" type="stmt"/>
+      <line num="14" count="21" type="stmt"/>
+      <line num="18" count="8" type="cond" truecount="3" falsecount="0"/>
+      <line num="19" count="5" type="stmt"/>
+      <line num="20" count="4" type="stmt"/>
+      <line num="24" count="8" type="cond" truecount="3" falsecount="0"/>
+      <line num="25" count="5" type="stmt"/>
+      <line num="26" count="4" type="stmt"/>
+      <line num="30" count="3" type="stmt"/>
+    </file>
+    <file name="utils.js" path="C:\Users\victo\OneDrive\Documentos\Estudo\Onebitcode\Testes automatizados no Javascript\black-personal-finances-miniapp\src\utils.js">
+      <metrics statements="5" coveredstatements="5" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <line num="1" count="4" type="stmt"/>
+      <line num="2" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="3" type="stmt"/>
+    </file>
+  </project>
+</coverage>
